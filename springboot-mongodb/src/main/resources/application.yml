@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://admin:admin@ac-thk0i5q-shard-00-00.toeoi0v.mongodb.net:27017,ac-thk0i5q-shard-00-01.toeoi0v.mongodb.net:27017,ac-thk0i5q-shard-00-02.toeoi0v.mongodb.net:27017/?ssl=true&replicaSet=atlas-11yr51-shard-0&authSource=admin&retryWrites=true&w=majority
+      database: Task
